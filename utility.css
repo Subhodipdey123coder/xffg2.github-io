@@ -1,0 +1,352 @@
+.navbar-ul{
+    display: flex;
+    justify-content: right;
+    margin-right: 140px;
+}
+.navbar-li{
+    padding: 8px 12px;
+    list-style: none;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+}
+.navbar-li:hover{
+    color: rgb(104, 196, 35);
+}
+.navbar-li span{
+    padding-left: 12px;
+    
+}
+.navbar-ul-2{
+    text-align: right;
+    display: flex;
+    margin-left: 392px;
+}
+.navbar-li-2{
+    list-style: none;
+    margin-top: 14px;
+    margin: 25px 29px;
+    cursor: pointer;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.navbar-li-2:hover{
+    color: rgb(104, 196, 35);
+}
+.btn-2{
+    background-color: rgb(227, 227, 18); 
+    color: black;
+    margin-top: 14px;
+    padding: 12px 22px;
+    border: none;
+    cursor: pointer;
+}
+.btn-2:hover{
+    background-color: rgb(215, 215, 22); 
+}
+.navbar-3-ul{
+    display: flex;
+}
+.navbar-3-li{
+    list-style: none;
+    padding: 1px 11px;
+    margin: 18px 20px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 15px;
+}
+.navbar-3-li:hover{
+    color: black;
+    cursor: pointer;
+    background-color: rgb(227, 227, 18); 
+    border-radius: 8px;
+    
+}
+.banner-box p{
+    padding: 14px 103.02px;
+    text-align: center;
+}
+
+.first{
+    background-color: rgb(228 224 224);
+    margin: 6px 10px;
+    padding: 0px 7px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 9px;
+    border-radius: 3px;
+    
+}
+.second{
+    background-color: rgb(228 224 224);
+    margin: 6px 10px;
+    padding: 0px 7px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 9px;
+    border-radius: 3px;
+}
+.third{
+    background-color: rgb(228 224 224);
+    margin: 6px 10px;
+    padding: 0px 7px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 9px;
+    border-radius: 3px;
+    
+}
+.first-box{
+    margin-top: 31px;
+    margin-left: 85px;
+   
+}
+.first-box h3{
+    color: rgb(74, 111, 231);
+    cursor: pointer;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    margin-bottom: 6px;
+   
+}
+.first-box h3:hover{
+    color: rgb(104, 196, 35);
+}
+.first-box p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.second-box{
+    margin-top: 31px;
+    margin-left: 180px;
+}
+.second-box h3{
+    color: rgb(74, 111, 231);
+    cursor: pointer;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    margin-bottom: 6px;
+   
+}
+.second-box h3:hover{
+    color: rgb(104, 196, 35);
+}
+.second-box p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.third-box{
+    margin-top: 31px;
+    margin-left: 173px;
+}
+.third-box h3{
+    color: rgb(74, 111, 231);
+    cursor: pointer;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    margin-bottom: 6px;
+   
+}
+.third-box p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.third-box h3:hover{
+    color: rgb(104, 196, 35);
+}
+.heading{
+    margin-top: 118px;
+    margin-left: 148px;
+}
+.heading h2{
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+}
+.heading p{
+    font-size: 18px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+
+}
+.first-con img{
+    height: 184px;
+    width: 100%;
+}
+.con h2{
+    font-size: 20px;
+    padding:18px 19px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.con p{
+    padding:1px 21px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+
+}
+
+.heading-3{
+    margin-top:90px ;
+    margin-left: 148px;
+    margin-bottom: 48px;
+}
+.heading-3 h3{
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+}
+.heading-3 p{
+    font-size:18px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.first-container{
+    display: flex;
+    margin-left: 147px;
+    width: 50%;
+}
+.first-container img{
+    height: 112px;
+    width: 192px;
+    margin-right: 28px;
+    border-radius: 8px;
+}
+.second-container{
+    display: flex;
+    margin: 12px 12px;
+    width: 50%;
+}
+.second-container img{
+    height: 112px;
+    width: 192px;
+    margin-right: 28px;
+    border-radius: 8px;
+}
+.third-container{
+    display: flex;
+    margin-left: 147px;
+    width: 50%;
+}
+.third-container img{
+    height: 112px;
+    width: 192px;
+    margin-right: 28px;
+    border-radius: 8px;
+}
+.forth-container{
+    display: flex;
+    margin: 12px 12px;
+    width: 50%;
+}
+.forth-container img{
+    height: 112px;
+    width: 192px;
+    margin-right: 28px;
+    border-radius: 8px;
+}
+.fifth-container{
+    display: flex;
+    margin-left: 147px;
+    width: 50%;
+}
+.fifth-container img{
+    height: 112px;
+    width: 192px;
+    margin-right: 28px;
+    border-radius: 8px;
+}
+.sixth-container{
+    display: flex;
+    margin: 12px 12px;
+    width: 50%;
+}
+.sixth-container img{
+    height: 112px;
+    width: 192px;
+    margin-right: 28px;
+    border-radius: 8px;
+}
+.heading-4{
+    margin-top:90px ;
+    margin-left: 148px;
+    margin-bottom: 48px;
+}
+.heading-4 h3{
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+}
+.heading-4 p{
+    font-size:18px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+hr{
+ margin-top: 90px;
+ margin: auto;
+ width: 87vw;
+}
+.left h3{
+    margin-left: 18px;
+    font-size: 36px;
+    font-family: "Source Sans Pro", sans-serif;
+}
+.left p{
+    margin-left: 18px;
+    margin-top: 12px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.heading-5 h3{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-left: 94px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 16px;
+}
+.first-banner h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+}
+.second-banner{
+    margin-left: 87px;
+}
+.second-banner p{
+    padding-top: 8px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 12px;
+}
+.second-banner h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+}
+.third-banner{
+    margin-left: 131px;
+}
+.third-banner p{
+    padding-top: 8px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 12px;
+}
+.third-banner h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+}
+.forth-banner{
+    margin-left: 157px;
+}
+.forth-banner p{
+    padding-top: 8px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 12px;
+}
+.forth-banner h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+}
+.first-social h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+}
+.first-discover h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    display: flex;
+    padding-left: 90px;
+}
+.contant ul{
+    display: flex;
+    margin-left: 320px;
+}
+.contant li{
+    list-style: none;
+    margin-left: 40px;
+    cursor: pointer;
+
+}
+.contant li:hover{
+    color: rgb(104, 196, 35);
+}
+
+
